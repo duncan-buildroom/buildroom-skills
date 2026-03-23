@@ -3,7 +3,7 @@
 set -e
 
 SKILLS_DIR="$HOME/.claude/skills"
-REPO_RAW="https://raw.githubusercontent.com/GITHUB_USERNAME/buildroom-skills/main/skills"
+REPO_RAW="https://raw.githubusercontent.com/duncan-buildroom/buildroom-skills/main/skills"
 
 echo ""
 echo "Installing Build Room skills for Claude Code..."

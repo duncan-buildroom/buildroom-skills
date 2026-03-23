@@ -15,7 +15,7 @@
 Run this one command in your terminal:
 
 ```bash
-curl -s https://raw.githubusercontent.com/GITHUB_USERNAME/buildroom-skills/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/duncan-buildroom/buildroom-skills/main/install.sh | bash
 ```
 
 ## Verify
