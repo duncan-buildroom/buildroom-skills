@@ -11,8 +11,8 @@ echo ""
 
 mkdir -p "$SKILLS_DIR"
 
-curl -fsSL "$REPO_RAW/last-30-days.md" -o "$SKILLS_DIR/last-30-days.md"
-echo "✓ Skill 1: Trend Research (last-30-days)"
+curl -fsSL "$REPO_RAW/reddit-trends.md" -o "$SKILLS_DIR/reddit-trends.md"
+echo "✓ Skill 1: Reddit Trends (reddit-trends)"
 
 curl -fsSL "$REPO_RAW/leadmagnet.md" -o "$SKILLS_DIR/leadmagnet.md"
 echo "✓ Skill 2: Lead Magnet (leadmagnet)"

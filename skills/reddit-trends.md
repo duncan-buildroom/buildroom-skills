@@ -1,5 +1,5 @@
 ---
-name: last-30-days
+name: reddit-trends
 description: Find what your target audience is actually talking about on Reddit right now — no API keys required
 ---
 
